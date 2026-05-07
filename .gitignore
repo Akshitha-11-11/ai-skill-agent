@@ -27,6 +27,7 @@ __pycache__/
 .env
 .env.*
 !.env.example
+backend/.env
 
 # ---------------- TEST / CACHE ----------------
 .pytest_cache/
